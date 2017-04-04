@@ -21,4 +21,10 @@ public class StepDefinations {
 		System.out.println("1");
 
 	}
+	
+	@Then("^result comes1$")
+	public void result_comes1() throws Throwable {
+		System.out.println("1");
+
+	}
 }
